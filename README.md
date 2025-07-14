@@ -1,16 +1,17 @@
 <h1 align="center">Hi there, I'm Artem 👋</h1>
 
-<p align="center">
-  <b>Certified Python Backend Developer</b> | <b>Learning IT</b> | <b>Sharing tech knowledge</b>  
-  <br>
-  Developing in public and helping others develop.
-</p>
+<h3 align="center">
+  <br>🏆 Certified Python Backend Developer</br>
+  <br>🧑🏻‍💻 Learning IT</br>
+  <br>🤖 Sharing tech knowledge</br>
+  <br>📈 Developing in public and helping others develop</br>
+</h3>
 
 ---
 
-## 🛠 Tech Stack
+## 🦾 Tech Stack
 
-### 💻 Languages & Fundamentals
+### #️⃣ Languages & Fundamentals
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -18,7 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
-### 🧰 Python & Libraries
+### 🏛️ Python & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-282828?style=flat&logo=pygame&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFB400?style=flat&logo=python&logoColor=white)
@@ -26,13 +27,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-006666?style=flat&logo=python&logoColor=white)
 
-### 🗃 Databases
+### 🛢 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-CC2927?style=flat&logo=databricks&logoColor=white)
 
-### ⚙️ DevOps & Tools
+### ♾️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat&logo=gitlab&logoColor=white)
@@ -42,7 +43,7 @@
 
 ---
 
-## 📫 Contact Me
+## 👇 Contact Me
 
 🌍 Website: [ArtemPankov.com](https://artempankov.com)
 
@@ -82,4 +83,7 @@
 
 ---
 
-<p align="center">Thanks for visiting! 🚀 Let's build cool things together 💡</p>
+<h3 align="center">
+  <br>Thanks for visiting) 🤗 </br>
+  <br>Let's create the future together! 🛸</br>
+</h3>
