@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Artem 👋</h1>
 
 <p align="center">
-  <b>Certified Python Backend Developer</b> | <b>IT Learner</b> | <b>Sharing tech knowledge</b>  
+  <b>Certified Python Backend Developer</b> | <b>Learning IT</b> | <b>Sharing tech knowledge</b>  
   <br>
   Developing in public and helping others develop.
 </p>
