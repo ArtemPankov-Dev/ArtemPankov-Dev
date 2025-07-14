@@ -44,45 +44,41 @@
 
 ## 📫 Contact Me
 
-📧 Email: [artem.pankov.dev@gmail.com](mailto:artem.pankov.dev@gmail.com)  
-🌐 Website: [artempankov.com](https://artempankov.com) *(coming soon)*  
-🐦 X / Twitter: [@Artem__Pankov](https://x.com/Artem__Pankov)  
-💼 LinkedIn: *(добавить ссылку)*  
-✉️ Telegram: [@artem_snisarenko](https://t.me/artem_snisarenko)  
-🎮 Discord: `a_proglang`  
-📸 Instagram: [@_artem_pankov_](https://www.instagram.com/_artem_pankov_)  
-💬 Threads: [@_artem_pankov_](https://www.threads.com/@_artem_pankov_)  
-📺 YouTube / Medium / Dev.to / Substack / Hashnode / Reddit / Pinterest / Facebook — *coming soon*
+🌍 Website: [ArtemPankov.com](https://artempankov.com)
 
----
+📧 Email: [Artem.Pankov.Dev@gmail.com](mailto:artem.pankov.dev@gmail.com) 
 
-## 📌 Pinned Projects
+📱 X / Twitter: [@Artem__Pankov](https://x.com/Artem__Pankov)  
 
-Here are some of my highlighted projects (check "Pinned" section above ⬆):
+💻 GitHub: [ArtemPankov-Dev](https://github.com/ArtemPankov-Dev)
 
-- `awesome-python-scripts` – Handy tools, utilities and automations  
-- `ai-playground` – Experimental mini-projects with AI and APIs  
-- `portfolio-site` – My personal site (built with Flask or static HTML/CSS)
+💼 LinkedIn: [](https://linkedin.com/) 
 
----
+✒️ Telegram: [@](t.me/) 
 
-## 📝 Blog Posts *(future)*
+🎮 Discord: [@](https://discord.com) 
 
-> Planning to publish articles on Dev.to, Medium, Hashnode and Substack.  
-> Topics will include:
-- Python tips & tricks  
-- Building real apps with Flask & FastAPI  
-- Learning AI from scratch  
-- Tech productivity and automation
+📺 YouTube: [@](https://youtube.com/@)
 
----
+📚 Medium: [@](https://medium.com/@)
 
-## 📊 GitHub Stats
+📬 Substack: [](https://substack.com/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtemPankov-Dev&show_icons=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPankov-Dev&layout=compact&theme=github_dark" height="160" />
-</p>
+⌨️ Dev.to: [](https://dev.to/)
+
+🌐 Hashnode: [](https://hashnode.com/)
+
+📸 Instagram: [](https://instagram.com/)
+
+💬 Threads: [](https://threads.com/)
+
+🎬 TikTok: [](https://tiktok.com/)
+
+🧠 Reddit: [](https://reddit.com/user/)
+
+📌 Pinterest: [](https://pinterest.com/)
+
+📘 Facebook: [](https://facebook.com/)
 
 ---
 
