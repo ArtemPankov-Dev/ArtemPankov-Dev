@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <br>🏆 Certified Python Backend Developer</br>
-  <br>🧑🏻‍💻 Learning IT</br>
+  <br>🧑🏻‍💻 Studying IT</br>
   <br>🤖 Sharing tech knowledge</br>
   <br>📈 Developing in public and helping others develop</br>
 </h3>
