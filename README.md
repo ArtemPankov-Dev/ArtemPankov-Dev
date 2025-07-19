@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Artem 👋</h1>
+<h1 align="center">Hi everyone, I'm Artem 👋</h1>
 
 <h3 align="center">
   <br>🏆 Certified Python Backend Developer</br>
   <br>🧑🏻‍💻 Studying IT</br>
-  <br>🤖 Sharing tech knowledge</br>
-  <br>📈 Developing in public and helping others develop</br>
+  <br>🤖 Sharing Tech Knowledge</br>
+  <br>📈 Developing In Public & Helping Others Develop</br>
 </h3>
 
 ---
@@ -85,8 +85,8 @@
 ---
 
 <h3 align="center">
-  <br>Thanks for visiting) 🤗 </br>
-  <br>Let's create the future together! 🛸</br>
+  <br>Thanks For Visiting) 🤗 </br>
+  <br>Let's Create The Future Together! 🛸</br>
 </h3>
 
 ---
