@@ -90,5 +90,6 @@
 </h3>
 
 ---
-
-![ArtemPankov Animation](https://media.giphy.com/media/pZNAdXuzr3zC8/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwycjAxZHNlbXRmaXU5ang0emQwOXVkdnRnd3lodzJsaTF1cG1yYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Find Satoshi Lab Animation" style="width: 100%;" />
+</p>
